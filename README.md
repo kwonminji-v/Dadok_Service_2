@@ -1,3 +1,10 @@
+# ✍️ 2차 구독 상품 구매 사이트 프로젝트
+
+![Dadok 메인화면](https://github.com/kwonminji-v/Dadok_Service_2/assets/124131332/b579d12a-947e-48f7-b8e1-0da1e0d43a1c)
+
+
+
+
 프로젝트에 사용한 언어 및 라이브러리 : HTML, CSS , JavaScript, React, node.js, MongoDB
 
 프로젝트 주제 : 다양한 구독 서비스들을 제공받고, 구독 및 관리가능 사이트
