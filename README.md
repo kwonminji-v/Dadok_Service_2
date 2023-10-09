@@ -1,5 +1,5 @@
 # ✍️ 2차 구독 상품 구매 사이트 프로젝트
-<br>
+##
 ![Dadok 메인화면](https://github.com/kwonminji-v/Dadok_Service_2/assets/124131332/b579d12a-947e-48f7-b8e1-0da1e0d43a1c)
 
 
