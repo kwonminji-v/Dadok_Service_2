@@ -93,6 +93,14 @@
 
    https://github.com/kwonminji-v/Dadok_Service_2/assets/124131332/d148c3f0-8659-49b9-8599-b31bc1db69b6
 
+  <br>
+
+   **6. 상세페이지에서 상품 담기**   
+
+   https://github.com/kwonminji-v/Dadok_Service_2/assets/124131332/afac47dd-3181-459b-b2c3-3d44e05ca9a3
+   
+
+
 
 <br><br>
 <br>
