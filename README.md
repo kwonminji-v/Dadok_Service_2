@@ -67,31 +67,32 @@
     
   **1. 로그인 후 MyPage로 이동**   
   
-https://github.com/kwonminji-v/Dadok_Service_2/assets/124131332/d2ffb9b0-9f20-4182-a01d-dbe31133dafe
+  https://github.com/kwonminji-v/Dadok_Service_2/assets/124131332/d2ffb9b0-9f20-4182-a01d-dbe31133dafe
 
    <br/>   
 
   **2. MyPage의 상품 제거**   
 
-https://github.com/kwonminji-v/Dadok_Service_2/assets/124131332/5ac1194b-29e1-4eaa-ac51-8cdfc5fd8209
+  https://github.com/kwonminji-v/Dadok_Service_2/assets/124131332/5ac1194b-29e1-4eaa-ac51-8cdfc5fd8209
 
    <br/>   
   
   **3. 쿠폰함 UI 기능**   
   
-  https://github.com/kwonminji-v/Dadok_Service_2/assets/124131332/b1d1e7e5-0430-4ef9-9a58-ed13429e804b
+   https://github.com/kwonminji-v/Dadok_Service_2/assets/124131332/b1d1e7e5-0430-4ef9-9a58-ed13429e804b
 
    <br/>   
 
   **4. 현재 이용내역 UI 기능**   
 
-  https://github.com/kwonminji-v/Dadok_Service_2/assets/124131332/1588ec94-f929-4170-bf5c-286a76b32fe7
+   https://github.com/kwonminji-v/Dadok_Service_2/assets/124131332/1588ec94-f929-4170-bf5c-286a76b32fe7
 
    <br/>   
 
+   **5. 상품 상세페이지 이동**   
 
+   https://github.com/kwonminji-v/Dadok_Service_2/assets/124131332/d148c3f0-8659-49b9-8599-b31bc1db69b6
 
-       <br/>   
 
 <br><br>
 <br>
